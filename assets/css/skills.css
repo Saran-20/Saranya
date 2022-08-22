@@ -214,3 +214,84 @@
      4px 4px 5px 0px rgba(0,0,0,.1);
     outline: none;
   }
+  .frst{
+    height: 200px;
+    margin-left: 300px;
+    margin-top: 200px;
+  }
+  .scnd{
+    height: 200px;
+    margin-left: 100px;
+  }
+  .thrd{
+    height: 200px;
+    margin-left: 100px;
+  }
+  #tech_lnk{
+    margin-top: 100px;
+    margin-left: 300px;
+    height: 200px;
+    width: 900px;
+    border-radius: 10px;
+    background-color: #d5d5db;
+  }
+  #tech_txt{
+    height: 70px;
+    width: 600px;
+    position: absolute;
+    margin-top: 40px;
+    margin-left: 30px;
+  }
+  #tech_txt2{
+    height: 70px;
+    width: 600px;
+    position: absolute;
+    margin-top: 102px;
+    margin-left: 659px;
+  }
+  #tech_txt3{
+    height: 70px;
+    width: 600px;
+    position: absolute;
+    margin-top: 160px;
+    margin-left: 30px;
+  }
+  #esywy{
+    width: 200px;
+    margin-left: 30px;
+    font-size: 25px;
+    position: absolute;
+  }
+  #plt_it{
+    width: 200px;
+    margin-left: 658px;
+    font-size: 25px;
+    position: absolute;
+    margin-top: 61px;
+  }
+  #lb_rep{
+    width: 200px;
+    margin-left: 30px;
+    font-size: 25px;
+    position: absolute;
+    margin-top: 118px;
+  }
+  #txt_clr{
+    color: black;
+    text-decoration: none;
+  }
+  #ttl_els{
+    position: absolute;
+    font-size: 40px;
+    margin-left: 900px;
+    margin-top: 100px;
+  }
+  .img_tech{
+    height: 200px;
+    border-radius: 7px;
+    position: absolute;
+    margin-left: 1300px;
+    top: 1485px;
+  }
+
+
